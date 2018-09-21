@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457256829 source:c:\users\jacob\desktop\fall 2015\data structures\programs\pg4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstddef>
+	<ctype.h>
+
